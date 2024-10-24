@@ -10,7 +10,7 @@ import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@
 import { Shield } from 'lucide-react'
 
 const mockAssets = [
-  { name: 'USDT', balance: '1000', type: 'トークン', value: 1000 },
+  { name: 'USDT', balance: '2000', type: 'トークン', value: 1000 },
   { name: 'USDC', balance: '100', type: 'トークン', value: 100 },
   { name: 'stETH', balance: '2', type: 'トークン', value: 5000 },
   { name: 'wETH', balance: '1.5', type: 'トークン', value: 4900 },
